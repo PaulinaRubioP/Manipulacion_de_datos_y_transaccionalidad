@@ -6,11 +6,11 @@ de inscritos en diferentes fechas y fuentes. El objetivo de este desafío es val
 
 ## Contenido
 ### El archivo incluye las siguientes consultas:
-1.-Número de registros: Calcula cuántos registros hay en la tabla INSCRITOS.
-2.-Total de inscritos: Suma el total de inscritos acumulados en la tabla.
-3.-Registros de mayor antigüedad: Selecciona el registro o registros más antiguos en función de la fecha.
-4.-Inscritos por día: Agrupa los registros por fecha para mostrar cuántos inscritos hubo cada día.
-5.-Día con mayor número de inscritos: Determina qué día se registró la mayor cantidad de inscritos.
+1. **Número de registros**: Calcula cuántos registros hay en la tabla INSCRITOS.
+2. **Total de inscritos**: Suma el total de inscritos acumulados en la tabla.
+3. **Registros de mayor antigüedad**: Selecciona el registro o registros más antiguos en función de la fecha.
+4. **Inscritos por día**: Agrupa los registros por fecha para mostrar cuántos inscritos hubo cada día.
+5. **Día con mayor número de inscritos**: Determina qué día se registró la mayor cantidad de inscritos.
 
 Número de registros: Calcula cuántos registros hay en la tabla INSCRITOS.
 ![06](https://github.com/user-attachments/assets/a9a2b87d-098e-40e3-b998-955469c7a87b)
@@ -22,10 +22,6 @@ Registros de mayor antigüedad: Selecciona el registro o registros más antiguos
 ![08](https://github.com/user-attachments/assets/15ce50a3-59dc-4324-88ca-f9f4a572f911)
 ![09](https://github.com/user-attachments/assets/67672ea0-35ff-4503-b984-9bf5527e6eaa)
 
-### Autor
-
-- [Rosa Rubio P.](https://github.com/PaulinaRubioP)
-
 Inscritos por día: Agrupa los registros por fecha para mostrar cuántos inscritos hubo cada día.
 ![10](https://github.com/user-attachments/assets/5f3b881c-afff-4c2e-b062-8ca8bd7d0217)
 
@@ -34,16 +30,18 @@ Día con mayor número de inscritos: Determina qué día se registró la mayor c
 
 
 ## Requisitos
- -Para ejecutar este archivo SQL, necesitarás:
- -PostgreSQL instalado en tu máquina.
- -Acceso a la consola de PostgreSQL o una herramienta gráfica como pgAdmin.
- -Una base de datos previamente creada para ejecutar las consultas.
+ Para ejecutar este archivo SQL, se necesita:
+ - PostgreSQL instalado en tu máquina.
+ - Acceso a la consola de PostgreSQL o una herramienta gráfica como pgAdmin.
+ - Una base de datos previamente creada para ejecutar las consultas.
 
 ## Instrucciones de Ejecución
- -Paso 1: Crear la base de datos
- -Paso 2: Conectarse a la base de datos
- -Paso 3: Ejecutar el archivo SQL
- -Paso 4: Verificar los resultados
+ - **Paso 1**: Crear la base de datos
+ - **Paso 2**: Conectarse a la base de datos
+ - **Paso 3**: Ejecutar el archivo SQL
+ - **Paso 4**: Verificar los resultados
  
+### Autor
 
+- [Rosa Rubio P.](https://github.com/PaulinaRubioP)
  
