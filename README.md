@@ -43,5 +43,5 @@ Día con mayor número de inscritos: Determina qué día se registró la mayor c
  
 ### Autor
 
-- [Rosa Rubio P.](https://github.com/PaulinaRubioP)
+- [Rosa Rubio](https://github.com/PaulinaRubioP)
  
